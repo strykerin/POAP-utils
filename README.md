@@ -1,4 +1,4 @@
-# Verify if wallet has a poap
+# Helper functions for the Proof of Attendance Protocol
 
 - All POAPs are on one contract.
 - Each event/collection are associated to an eventID
